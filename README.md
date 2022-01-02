@@ -1,7 +1,7 @@
 ### Hello I'm sarhatabaot.
 Open Source Developer.
 
-Usually working on stuff for <a href="https://github.com/TreasureIslandMC">@TreasureIslandMC</a>
+Usually working on stuff for <a href="https://github.com/TreasureIslandMC">@TreasureIslandMC</a> & <a href="https://github.com/Lapzupi">@Lapzupi</a>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sarhatabaot)](https://github.com/anuraghazra/github-readme-stats)
