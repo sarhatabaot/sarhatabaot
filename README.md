@@ -3,7 +3,7 @@
     <p align="center"> I'm a Freelance developer from Israel.</p>
 </p>
 
-* I'm am usually working on <a href="https://github.com/TreasureIslandMC">@TreasureIslandMC</a> & <a href="https://github.com/Lapzupi">@Lapzupi</a>.
+* I'm usually working on <a href="https://github.com/TreasureIslandMC">@TreasureIslandMC</a> & <a href="https://github.com/Lapzupi">@Lapzupi</a>.
 * I'm currently learning vue.js
 
 ### Contact me:
