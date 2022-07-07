@@ -9,7 +9,7 @@
 ### Contact me:
 <a href="mailto:omeroreg@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>  <a href="https://www.linkedin.com/in/omer-oreg/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarhatabaot&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarhatabaot&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sarhatabaot)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sarhatabaot/sarhatabaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
