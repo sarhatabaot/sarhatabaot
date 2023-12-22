@@ -4,7 +4,7 @@
 </p>
 
 * I'm usually working on <a href="https://github.com/Lapzupi">@Lapzupi</a>.
-* I'm currently learning vue.js & kotlin
+* I'm currently learning Spring Boot
 ### Tech Stack
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-8b48fa?style=for-the-badge&logo=kotlin&logoColor=white)
