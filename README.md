@@ -1,10 +1,9 @@
 <p align="center">
     <h2 align="center"> Hello 👋, I'm Omer Oreg.</h2>
-    <p align="center"> I'm a Freelance developer from Israel.</p>
+    <p align="center"> I'm a Developer from Israel.</p>
 </p>
 
 * I'm usually working on <a href="https://github.com/Lapzupi">@Lapzupi</a>.
-* I'm currently learning Spring Boot
 ### Tech Stack
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-8b48fa?style=for-the-badge&logo=kotlin&logoColor=white)
