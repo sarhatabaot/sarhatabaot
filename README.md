@@ -4,6 +4,7 @@
 </p>
 
 * I'm usually working on <a href="https://github.com/Lapzupi">@Lapzupi</a>.
+* Software Developer for [LAST](https://www.weizmann.ac.il/physics/ofek/large-array-survey-telescope-last-0) & [ULTRASAT](https://www.weizmann.ac.il/ultrasat/)
 ### Tech Stack
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-8b48fa?style=for-the-badge&logo=kotlin&logoColor=white)
